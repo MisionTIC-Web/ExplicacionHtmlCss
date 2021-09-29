@@ -83,7 +83,7 @@ a{
     display:flex;
     /* flex-direction: column-reverse; */
     /* flex-direction:row-reverse */
-    height: 500px;
+    height: 300px;
     justify-content: space-between;
     align-items: center;
 
